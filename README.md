@@ -1,5 +1,5 @@
 # MiniManny3Dprint
-2017 BEST CoCo BEST mini manny 3D printed 
+2017 BEST CoCo BEST mini manny 3D printed by [TEAM 58](https://bestteam58.github.io/)
 
 ## 3D Print 150 Pieces 25 Mannys at Once
 
