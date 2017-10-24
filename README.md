@@ -7,15 +7,15 @@
 
 ### Documentation : 
 
-![Set Up]('3d print vid manny 4.jpg' "Starting Print")
+![Set Up](https://raw.githubusercontent.com/BESTTeam58/MiniManny3Dprint/master/3d%20print%20vid%20manny%204.jpg "Starting Print")
 
-![Print 25]('3d print pic manny 1.jpg' "Printing 25 @ Once")
+![Print 25](https://raw.githubusercontent.com/BESTTeam58/MiniManny3Dprint/master/3d%20print%20pic%20manny%201.jpg "Printing 25 @ Once")
 
-![Print 25 (2)]('3d print vid manny 2.jpg' "150 Pieces in Total")
+![Print 25 (2)](https://raw.githubusercontent.com/BESTTeam58/MiniManny3Dprint/master/3d%20print%20vid%20manny%202.jpg "150 Pieces in Total")
 
-![Print 25 (3)]('3d print vid manny 3.jpg' "3D Bed Maxed Out")
+![Print 25 (3)](https://raw.githubusercontent.com/BESTTeam58/MiniManny3Dprint/master/3d%20print%20vid%20manny%203.jpg "3D Bed Maxed Out")
 
-![Finished Product]('3d print vid manny 5.jpg' "Completed Task")
+![Finished Product](https://raw.githubusercontent.com/BESTTeam58/MiniManny3Dprint/master/3d%20print%20vid%20manny%205.jpg "Completed Task")
 
 ## 3D Print Schema : 
 
