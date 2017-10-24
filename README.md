@@ -7,15 +7,15 @@
 
 ### Documentation : 
 
-![Set Up]('3d print pic manny 4.jpg' "Starting Print")
+![Set Up]('/3d print vid manny 4.jpg' "Starting Print")
 
-![Print 25]('3d print pic manny 1.jpg' "Printing 25 @ Once")
+![Print 25]('/3d print pic manny 1.jpg' "Printing 25 @ Once")
 
-![Print 25 (2)]('3d print pic manny 2.jpg' "150 Pieces in Total")
+![Print 25 (2)]('/3d print vid manny 2.jpg' "150 Pieces in Total")
 
-![Print 25 (3)]('3d print pic manny 3.jpg' "3D Bed Maxed Out")
+![Print 25 (3)]('/3d print vid manny 3.jpg' "3D Bed Maxed Out")
 
-![Finished Product]('3d print pic manny 5.jpg' "Completed Task")
+![Finished Product]('/3d print vid manny 5.jpg' "Completed Task")
 
 ## 3D Print Schema : 
 
